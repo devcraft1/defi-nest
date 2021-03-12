@@ -21,7 +21,7 @@ Void
 
 ### Requirements
 
-*Globally installed typescript and lite-server application
+*Globally install typescript and lite-server application
 * Node
 * NPM
 

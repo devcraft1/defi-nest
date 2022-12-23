@@ -1,9 +1,15 @@
+# Typescript Playground
+
+This repo encourages hands-on-coding while learning or testing out new features in solidity. As the name rightfully implies, it is a playground to get one's hands dirty before adding a feature to a project or starting one.
+
+# Resources
+
+1. Typescript docs: https://www.typescriptlang.org/
+
 ### TYPESCRIPT
 
 - Commands
-  run:
-  _yarn or_npm install_
-  _lite-server_
-  _tsc -w_
-  _tsc <filename> .ts_
-  _node <filename>. js_
+  yarn or*npm install
+  tsc -w*
+  tsc <filename> .ts*
+  node <filename>. js*

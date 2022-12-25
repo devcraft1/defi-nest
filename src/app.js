@@ -13,5 +13,5 @@ const increasedByOne3 = numbers.map((num) => num + 1);
 const x = numbers.every
 
 console.log(increasedByOne)
-// console.log(increasedByOne3)
+console.log(increasedByOne3)
 
